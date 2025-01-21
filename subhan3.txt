@@ -12,6 +12,3 @@ this is file added to test revert command
 9th line in this file
 10th line in this file
 
-11th line in this file
-12th line in this file
-
