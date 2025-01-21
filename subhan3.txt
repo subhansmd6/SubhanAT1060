@@ -8,7 +8,4 @@ this is file added to test revert command
 6th line in this file
 
 7th line in this file
-8th line in this file
-9th line in this file
-10th line in this file
 
